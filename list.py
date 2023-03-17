@@ -1,0 +1,14 @@
+List1=[0,9,7,5,2,1]
+print(List1)
+List2=[[1,2],4,5]
+print(List2)
+List3=['Jospeh','Glenn','Sally']
+print(List3)
+List4=['Ali',8,9,[3,4],90,'khan']
+print(List4)
+List5=[]
+print(List5)
+List6=[(1,2),{3:25,4:"Keqin-Li"},1,2]
+print(List6)
+List7=list(iterable/list/string/tuple/dict/set)
+print(List7)
